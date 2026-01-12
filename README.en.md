@@ -1,4 +1,5 @@
 # RTT-nanoFramework
+**English** | [中文](README.md)
 > **Power Industrial Hardware with C#: A .NET High-Level Language Real-Time Runtime Based on RT-Thread RedEngine Ecosystem**
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -148,4 +149,5 @@ This project is licensed under the **MIT License**. You may safely include this 
 ---
 
 **⭐ Star Us If You Find This Useful!**  
+
 For technical questions or business cooperation, reach out via GitHub Issues or email [lhf@yfiot.com].
