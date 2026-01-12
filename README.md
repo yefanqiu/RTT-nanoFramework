@@ -1,5 +1,7 @@
 # RTT-nanoFramework
 
+[English](README.en.md) | **中文** 
+
 > **让 C# 驱动工业硬核：基于 RT-Thread 睿擎生态的 .NET 高级语言实时运行环境**
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
